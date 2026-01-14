@@ -1,0 +1,6 @@
+{
+  "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
+  "folder": "periodic/daily/Timestamps",
+  "template": "0_System/Templates/daily/daily_setup/general_template_setup_daily",
+  "autorun": false
+}

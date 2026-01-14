@@ -1,0 +1,34 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "/",
+      "tag": "",
+      "pattern": "rootnote"
+    },
+    {
+      "folder": "todo",
+      "tag": "",
+      "pattern": "ToDo"
+    },
+    {
+      "folder": "shopping",
+      "tag": "",
+      "pattern": "shoppinglist"
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "0_System/Bases"
+    },
+    {
+      "folder": "0_System/Templates"
+    },
+    {
+      "folder": ""
+    }
+  ]
+}

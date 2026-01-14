@@ -1,0 +1,58 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "0_System/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "0_System/Inbox_NewNotes",
+      "template": "0_System/Inbox_NewNotes/inbox_template.md"
+    },
+    {
+      "folder": "Timestamps",
+      "template": "Templates/daily/general_template_daily.md"
+    },
+    {
+      "folder": "Growboxes",
+      "template": "0_System/Templates/Enviroments/Growbox/general_template_growbox.md"
+    },
+    {
+      "folder": "Strains",
+      "template": "0_System/Templates/Strains/general_template_strains.md"
+    },
+    {
+      "folder": "Watering/Timestamps",
+      "template": "0_System/Templates/Watering/general_template_watering.md"
+    },
+    {
+      "folder": "todo",
+      "template": "0_System/Templates/todo/todo-template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

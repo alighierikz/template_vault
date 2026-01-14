@@ -1,0 +1,8 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#9c75f5",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "baseviewlimiter_snippet"
+  ]
+}

@@ -1,0 +1,4 @@
+.limit-base-height .bases-embed > .bases-view { 
+    max-height: 450px; 
+    overflow-y: auto; 
+}
